@@ -1,0 +1,4 @@
+./data/fonts/chn/msyh.ttc
+./data/fonts/zdy/Ventouse-1.ttf
+./data/fonts/zdy/TLOZ-Phantom-Hourglass-1.ttf
+./data/fonts/zdy/ProggyTinySZ-4.ttf
